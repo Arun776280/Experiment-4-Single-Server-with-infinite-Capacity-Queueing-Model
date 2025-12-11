@@ -11,7 +11,7 @@ If the arrival of materials follow poisson process with mean interval time 12 se
 # Theory:
 1.	The model has one server and unlimited queue space, so any number of customers can wait without blocking new arrivals.
 2.	Arrivals usually follow a Poisson process, and service times come from a chosen probability distribution, often exponential in the classic M/M/1 case.
-3.	 The system reaches a stable steady state only when the service rate exceeds the arrival rate; otherwise the queue grows without bound.
+3.	 The system reaches a stable steady state only when the service rate exceeds the arrival rate; otherwise, the queue grows without bound.
 4.	 Key performance measures—like average waiting time, average queue length, and server utilization—emerge from the balance between these two rates.
 5.	 Despite its simplicity, the model serves as a foundational benchmark for analysing more intricate queueing systems and real-world service operations.
 # Procedure: 
@@ -22,5 +22,4 @@ If the arrival of materials follow poisson process with mean interval time 12 se
 # Output
 
 # Result
-
-
+       The average number of material in the system and in the conveyor and waiting time are successfully found.
